@@ -1,0 +1,4 @@
+item,integer,string,boolean,date
+1,-100,"Hello, world!",TRUE,2024-10-30
+2,10,12345,FALSE,2024-10-02
+3,50,test,FALSE,2024-09-04
