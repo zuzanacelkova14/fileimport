@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Product 1</name>
+        <color>Red</color>
+        <size>Large</size>
+        <category>Clothing</category>
+    </product>
+    <product>
+        <name>Product 2</name>
+        <color>Blue</color>
+        <size>Medium</size>
+        <category>Electronics</category>
+    </product>
+    <product>
+        <name>Product 3</name>
+        <color>Green</color>
+        <size>Small</size>
+        <category>Home Goods</category>
+    </product>
+</products>
