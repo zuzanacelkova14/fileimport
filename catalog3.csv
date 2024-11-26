@@ -1,51 +1,6 @@
-item_id;supplier;category_id;color;size;price;stock_level
-1;Onvia;94525;Magenta;5;32.12;
-2;Geofeedia;58425;DarkMagenta;8;34.82;
-3;Ranku;28982;PaleVioletRed;7;77.85;
-4;Business and Legal Resources;83360;HoneyDew;6;36.90;
-5;Inovalon;39520;LightSlateGray;7;21.50;
-6;CGI;26265;PeachPuff;5;40.59;
-7;Certara;4360;Tan;6;52.20;
-8;Avalara;4020;MintCream;5;34.37;
-9;S&P Capital IQ;39730;DeepSkyBlue;4;60.70;
-10;WeMakeItSafer;94512;Darkorange;4;74.00;
-11;Adaptive;36449;Sienna;6;56.03;
-12;Equal Pay for Women;75695;Lavender;4;45.26;
-13;Parsons Brinckerhoff;74674;LimeGreen;7;55.03;
-14;Honest Buildings;75818;DarkRed;7;65.10;
-15;Russell Investments;82597;Silver;7;47.30;
-16;OpenPlans;28072;DeepSkyBlue;7;52.36;
-17;Equilar;77603;SandyBrown;8;59.61;
-18;Aureus Sciences (*Now part of Elsevier);47024;Black;4;47.83;
-19;Practice Fusion;37284;RoyalBlue;7;69.03;
-20;McKinsey;3893;Yellow;5;27.24;
-21;realtor.com;64368;Violet;8;33.77;
-22;Fitch;83928;Pink;7;76.56;
-23;Quandl;26751;SteelBlue;6;27.83;
-24;KLD Research;98963;Aquamarine;5;78.48;
-25;State Farm Insurance;52385;GreenYellow;6;48.03;
-26;College Abacus, an ECMC initiative;7356;DeepSkyBlue;7;58.85;
-27;TuvaLabs;65783;MintCream;4;55.62;
-28;Compliance and Risks;36707;Beige;4;78.73;
-29;USAA Group;9920;LimeGreen;8;49.28;
-30;Thinknum;15261;DarkSeaGreen;7;36.02;
-31;Wolters Kluwer;82669;LightSeaGreen;4;28.45;
-32;Quid;11713;SeaShell;7;26.85;
-33;Whitby Group;76237;Crimson;7;33.32;
-34;Splunk;50649;MintCream;4;31.37;
-35;Loqate, Inc.;72369;LemonChiffon;6;36.06;
-36;Unigo LLC;34651;PaleTurquoise;7;40.49;
-37;Accela;80189;Purple;7;68.50;
-38;Innography;10502;SandyBrown;5;27.64;
-39;BaleFire Global;60085;Navy;5;63.31;
-40;Overture Technologies;11337;DimGrey;5;27.00;
-41;Granicus;66247;DarkTurquoise;5;58.59;
-42;ConnectEDU;33317;SeaShell;6;49.00;
-43;Civis Analytics;12653;Black;8;32.65;
-44;MuckRock.com;25825;Aquamarine;6;58.50;
-45;Paxata;41663;MediumSeaGreen;7;63.30;
-46;Mint;92831;PaleTurquoise;4;47.95;
-47;Plus-U;77378;Olive;8;70.72;
-48;Solar Census;24432;Cornsilk;7;39.13;
-49;USAA Group;55444;Cyan;4;32.47;
-50;SocialEffort Inc;17262;Teal;6;35.39;
+item_id,supplier,category_id,color,size,price,stock_level
+1,CAN Capital,49930,Salmon,6,52.33,100
+2,xDayta,82177,DimGray,7,39.82,100
+3,TrialX,98371,BlanchedAlmond,8,67.92,100
+4,Enigma.io,31118,LightCyan,4,49.50,100
+5,CAN Capital,52267,AntiqueWhite,8,60.17,100
