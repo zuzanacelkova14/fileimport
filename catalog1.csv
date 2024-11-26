@@ -1,4 +1,4 @@
-item_id;supplier;category_id;color;size;price;stock_level
+item_id;supplier;category_id;color;size;price;
 1;ASC Partners;89423;LightBlue;4;34.75;
 2;Junyo;71544;SaddleBrown;7;51.30;
 3;WebFilings;64469;Red;5;76.18;
