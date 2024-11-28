@@ -1,7 +1,5 @@
-item_id;supplier;category_id;color;size;price;;
-1;CAN Capital;49930;Salmon;6;52.33;
-2;xDayta;82177;DimGray;7;39.82;Ass
-3;TrialX;98371;BlanchedAlmond;8;67.92
-4;Enigma.io;31118;LightCyan;4;49.50
-5;CAN Capital;52267;AntiqueWhite;8;60.17
-
+# Python 3
+with open('incorrect_encoding.txt', 'wb') as f:
+    f.write(b'Line 1: Correct Encoding\n')
+    f.write(b'Line 2: Correct Encoding\n')
+    f.write(b'Line 3: Incorrect Encoding \x80\n')  # \x80 is not a valid standalone byte in UTF-8
