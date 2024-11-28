@@ -1,21 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<products>
-    <product>
-        <name>Product 1</name>
-        <color>Red</color>
-        <size>Large</size>
-        <category>Clothing</category>
-    </product>
-    <product>
-        <name>Product 2</name>
-        <color>Blue</color>
-        <size>Medium</size>
-        <category>Electronics</category>
-    </product>
-    <product>
-        <name>Product 3</name>
-        <color>Green</color>
-        <size>Small</size>
-        <category>Home Goods</category>
-    </product>
-</products>
+item_id supplier category_id color size price stock_level test
+15 CAN Capital 49930 Salmon 6 52.33 1000 test1
+25 xDayta 82177 DimGray 7 39.82 1000 test1
+35 TrialX 98371 BlanchedAlmond 8 67.92 1000 test1
+45 TrialX 98371 BlanchedAlmond 8 67.92 1000 test1
