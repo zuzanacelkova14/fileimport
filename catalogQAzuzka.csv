@@ -1,7 +1,7 @@
-item_id;supplier;category_id;color;size;price;stock_level
-1;CAN Capital;49930;Salmon;6;52.33;100
-2;xDayta;82177;DimGray;7;39.82;100
-3;TrialX;98371;BlanchedAlmond;8;67.92;100
-4;Enigma.io;31118;LightCyan;4;49.50;100
-5;CAN Capital;52267;AntiqueWhite;8;60.17;100
+item_id-supplier-category_id-color-size-price-stock_level
+1-CAN Capital-49930-Salmon-6-52.33-100
+2-xDayta-82177-DimGray-7-39.82-100
+3-TrialX-98371-BlanchedAlmond-8-67.92-100
+4-Enigma.io-31118-LightCyan-4-49.50-100
+5-CAN Capital-52267-AntiqueWhite-8-60.17-100
 
