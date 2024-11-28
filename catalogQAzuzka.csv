@@ -1,5 +1,21 @@
-# Python 3
-with open('incorrect_encoding.txt', 'wb') as f:
-    f.write(b'Line 1: Correct Encoding\n')
-    f.write(b'Line 2: Correct Encoding\n')
-    f.write(b'Line 3: Incorrect Encoding \x80\n')  # \x80 is not a valid standalone byte in UTF-8
+<?xml version="1.0" encoding="UTF-8"?>
+<products>
+    <product>
+        <name>Product 1</name>
+        <color>Red</color>
+        <size>Large</size>
+        <category>Clothing</category>
+    </product>
+    <product>
+        <name>Product 2</name>
+        <color>Blue</color>
+        <size>Medium</size>
+        <category>Electronics</category>
+    </product>
+    <product>
+        <name>Product 3</name>
+        <color>Green</color>
+        <size>Small</size>
+        <category>Home Goods</category>
+    </product>
+</products>
