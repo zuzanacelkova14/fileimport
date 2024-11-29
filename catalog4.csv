@@ -1,5 +1,5 @@
-item_id;supplier;category_id;color;size;price;stock_level;test
-15;CAN Capital;49930;Salmon;6;52.33;1000;test1
-25;xDayta;82177;DimGray;7;39.82;1000;test1
-35;TrialX;98371;BlanchedAlmond;8;67.92;1000;test1
-45;TrialX;98371;BlanchedAlmond;8;67.92;1000;test1
+item_id//supplier//category_id//color//size//price//stock_level//test
+15//CAN Capital//49930//Salmon//6//52.33//1000//test1
+25//xDayta//82177//DimGray//7//39.82//1000//test1
+35//TrialX//98371//BlanchedAlmond//8//67.92//1000//test1
+45//TrialX//98371//BlanchedAlmond//8//67.92//1000//test1
