@@ -3,3 +3,7 @@ item_id;supplier;category_id;color;size;price;stock_level;test
 25;xDayta;82177;DimGray;7;39.82;1000;test1
 35;TrialX;98371;BlanchedAlmond;8;67.92;1000;test1
 45;TrialX;98371;BlanchedAlmond;8;67.92;1000;test1
+135;TrialX;98371;BlanchedAlmond;8;67.92;1000;test1
+145;TrialX;98371;BlanchedAlmond;8;67.92;1000;test1
+315;TrialX;98371;BlanchedAlmond;8;67.92;1000;test1
+465;TrialX;98371;BlanchedAlmond;8;67.92;1000;test1
