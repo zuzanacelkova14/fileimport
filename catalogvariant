@@ -1,0 +1,10 @@
+product_id,variant_id,name,price,size,color
+P123,,Basic T-Shirt,19.99,,
+P123,V001,Basic T-Shirt,19.99,Small,Black
+P123,V002,Basic T-Shirt,19.99,Medium,Black
+P124,V003,Striped T-Shirt,24.99,Small,Red
+P124,V004,Striped T-Shirt,24.99,Medium,Red
+P124,V005,Striped T-Shirt,24.99,Large,Red
+P125,V006,Polka Dot T-Shirt,29.99,Small,Blue
+P125,V007,Polka Dot T-Shirt,29.99,Medium,Blue
+P125,V008,Polka Dot T-Shirt,29.99,Large,Blue
