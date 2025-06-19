@@ -1,0 +1,501 @@
+item_id;supplier;category_id;color;size;price;stock_level;active;date_added
+1;Overture Technologies;75126;MediumVioletRed;8;54.24;100;true;1733045629
+2;Panjiva;94304;DimGrey;6;29.60;100;true;1733118254
+3;J.P. Morgan Chase;22812;GoldenRod;6;52.34;100;true;1733132659
+4;Quandl;51818;LawnGreen;6;40.68;100;true;1733092687
+5;Asset4;65806;RoyalBlue;4;47.64;100;true;1733035813
+6;Expert Health Data Programming, Inc.;15838;DarkBlue;4;27.74;100;true;1733042616
+7;Amazon Web Services;9214;DarkSlateBlue;7;26.77;100;true;1732987087
+8;Zillow;69856;DimGray;6;53.92;100;true;1733064179
+9;FlightView;75458;LightGoldenRodYellow;8;62.29;100;true;1733134871
+10;Lilly Open Innovation Drug Discovery;20470;MediumSlateBlue;7;37.98;100;true;1732997957
+11;SolarList;87395;GoldenRod;4;74.92;100;true;1733073320
+12;McKinsey;76490;RosyBrown;7;62.15;100;true;1732975428
+13;Funding Circle;38241;Peru;8;31.10;100;true;1733022547
+14;Bridgewater;49182;Chartreuse;6;36.79;100;true;1733140433
+15;TagniFi;93624;DarkOrchid;4;77.74;100;true;1733119804
+16;CGI;58482;PaleTurquoise;6;71.47;100;true;1733041578
+17;Porch;37982;Green;6;74.26;100;true;1733032467
+18;Ernst & Young LLP;35072;Plum;7;34.97;100;true;1733059455
+19;IFI CLAIMS Patent Services;51904;LavenderBlush;4;24.85;100;true;1733103896
+20;How's My Offer?;44169;LightPink;6;28.32;100;true;1733132744
+21;CityScan;93297;MidnightBlue;4;58.38;100;true;1733074357
+22;Jurispect;66892;MediumSpringGreen;5;66.52;100;true;1733110850
+23;OptumInsight;84619;DarkSeaGreen;8;35.02;100;true;1733056974
+24;Bekins;88923;DarkRed;4;59.26;100;true;1733056857
+25;Intermap Technologies;27188;DarkBlue;7;56.76;100;true;1733026623
+26;R R Donnelley;38067;SlateBlue;7;21.09;100;true;1733074147
+27;Charles River Associates;61135;Ivory;5;25.50;100;true;1733051977
+28;Open Data Nation;79518;DarkViolet;7;56.16;100;true;1733075779
+29;The Vanguard Group;44756;DarkSlateBlue;8;23.93;100;true;1733031677
+30;ZocDoc;90228;Chocolate;5;49.90;100;true;1733057782
+31;mHealthCoach;19497;LemonChiffon;5;29.23;100;true;1733124644
+32;Civic Insight;21558;LightSteelBlue;8;59.85;100;true;1733089200
+33;Junyo;42366;DarkSalmon;4;74.03;100;true;1732979355
+34;Cerner;47252;Aqua;5;79.75;100;true;1733002172
+35;Innovest Systems;74934;DarkMagenta;5;60.92;100;true;1733139572
+36;Accenture;95682;Orange;4;20.51;100;true;1733045842
+37;Department of Better Technology;51802;NavajoWhite;8;67.73;100;true;1733034720
+38;WaterSmart Software;42165;LightBlue;7;56.57;100;true;1733005428
+39;SAP;70814;DarkSalmon;5;24.32;100;true;1733088381
+40;The Advisory Board Company;3460;Brown;4;44.42;100;true;1733083892
+41;Bloomberg;9380;SpringGreen;8;63.18;100;true;1733076602
+42;Innography;55135;MediumBlue;4;21.22;100;true;1733007754
+43;Nationwide Mutual Insurance Company;96583;MistyRose;8;69.87;100;true;1732982844
+44;Wheaton World Wide Moving;36748;ForestGreen;6;39.30;100;true;1733038677
+45;Teradata;38964;PeachPuff;8;56.09;100;true;1732988484
+46;Politify;43055;DarkSalmon;8;27.84;100;true;1733127038
+47;Glassy Media;87742;Cyan;5;30.05;100;true;1732989020
+48;Dun & Bradstreet;68645;HotPink;5;68.93;100;true;1733041644
+49;TransUnion;82310;BurlyWood;7;37.90;100;true;1732987095
+50;LexisNexis;33808;Brown;5;58.66;100;true;1732969613
+51;Govzilla, Inc.;1343;LemonChiffon;6;77.55;100;true;1733101680
+52;Standard and Poor's;29518;PeachPuff;5;47.07;100;true;1732987691
+53;Equifax;9112;GoldenRod;8;33.32;100;true;1733024732
+54;ProgrammableWeb;70060;Azure;8;61.92;100;true;1732976345
+55;BuildZoom;56291;Lime;6;56.28;100;true;1733121685
+56;Arrive Labs;75842;LimeGreen;5;21.31;100;true;1733130204
+57;SAS;68527;FloralWhite;8;28.19;100;true;1733033501
+58;Weather Decision Technologies;50677;PowderBlue;6;76.70;100;true;1733044531
+59;Intermap Technologies;42254;MediumSpringGreen;6;23.35;100;true;1733077255
+60;Bing;307;YellowGreen;4;25.01;100;true;1733020929
+61;American Red Ball Movers;96153;DarkGray;4;66.28;100;true;1733048443
+62;Golden Helix;87893;PapayaWhip;4;49.06;100;true;1733010359
+63;SnapSense;98501;LightSeaGreen;8;77.18;100;true;1733016382
+64;StreamLink Software;91315;LightGoldenRodYellow;6;53.64;100;true;1733131522
+65;Everyday Health;56897;DarkBlue;7;73.68;100;true;1732979622
+66;CareSet Systems;65500;DarkGreen;7;69.33;100;true;1732979560
+67;Votizen;94465;FireBrick;7;47.94;100;true;1733104807
+68;US Green Data;16884;BlueViolet;5;69.20;100;true;1733073810
+69;Capital Cube;58608;LightGreen;8;39.50;100;true;1733121547
+70;Maponics;58397;DarkOliveGreen;5;48.37;100;true;1733052715
+71;Tendril;56029;Olive;5;47.40;100;true;1733136333
+72;Tableau Software;3142;DimGrey;4;42.54;100;true;1733068814
+73;Loqate, Inc.;27320;OldLace;5;48.08;100;true;1733127857
+74;Mozio;22064;Maroon;5;54.06;100;true;1733107854
+75;State Farm Insurance;8624;HoneyDew;4;71.64;100;true;1733121470
+76;NerdWallet;87557;DarkSlateBlue;5;49.00;100;true;1733052806
+77;Center for Responsive Politics;17426;Cornsilk;4;37.14;100;true;1733137641
+78;Palantir Technologies;72836;SlateGray;4;58.58;100;true;1733079400
+79;Parsons Brinckerhoff;74470;IndianRed ;8;44.46;100;true;1733134705
+80;How's My Offer?;55119;DarkKhaki;7;24.93;100;true;1732989957
+81;NuCivic;40703;LightSteelBlue;8;36.51;100;true;1733069357
+82;iMedicare;69070;DodgerBlue;5;79.75;100;true;1733068067
+83;Revaluate;54068;Red;4;65.90;100;true;1732979522
+84;ProPublica;93196;Plum;8;31.61;100;true;1733026316
+85;Patently-O;14846;LightCoral;5;68.97;100;true;1733048696
+86;Clean Power Finance;90053;SlateBlue;4;78.04;100;true;1732970489
+87;SnapSense;34789;OldLace;4;52.32;100;true;1733016330
+88;The Govtech Fund;60039;Silver;5;58.74;100;true;1733077553
+89;Standard and Poor's;44201;PaleGoldenRod;4;78.34;100;true;1733055746
+90;Glassy Media;62398;Bisque;8;45.23;100;true;1733118965
+91;Orlin Research;28402;Wheat;4;49.16;100;true;1733036778
+92;WeMakeItSafer;54714;HotPink;5;28.63;100;true;1733114484
+93;Fujitsu;78892;Blue;6;70.20;100;true;1733040410
+94;Citigroup;72540;RosyBrown;8;24.83;100;true;1733137399
+95;iRecycle;61357;DarkCyan;7;70.41;100;true;1733091478
+96;iFactor Consulting;65909;LightSteelBlue;5;21.80;100;true;1733085937
+97;Poncho App;40971;DarkViolet;7;61.24;100;true;1733024015
+98;InnoCentive;72419;LavenderBlush;7;45.27;100;true;1733100239
+99;Trintech;76091;PaleTurquoise;4;43.48;100;true;1733131393
+100;OpenCounter;40373;DarkGray;8;33.44;100;true;1733110186
+101;GuideStar;33107;MediumSpringGreen;8;45.50;100;true;1733041479
+102;Energy Solutions Forum;7360;OldLace;7;27.35;100;true;1732976297
+103;Municode;26403;FireBrick;7;20.21;100;true;1732990494
+104;Loqate, Inc.;12723;SpringGreen;5;64.98;100;true;1733048480
+105;Poncho App;15446;Tan;4;64.40;100;true;1733105614
+106;Nautilytics;59412;DeepSkyBlue;8;26.41;100;true;1733035392
+107;Roadify Transit;94704;MediumSlateBlue;7;53.87;100;true;1733006711
+108;NonprofitMetrics;58874;LightCyan;8;24.53;100;true;1733018845
+109;DemystData;99662;Pink;5;36.24;100;true;1733031901
+110;karmadata;85321;RoyalBlue;6;46.05;100;true;1733061639
+111;Department of Better Technology;44859;LemonChiffon;7;61.59;100;true;1733019511
+112;Ayasdi;135;Chocolate;8;74.99;100;true;1733004606
+113;Revaluate;29999;DarkCyan;4;57.33;100;true;1732981146
+114;MicroBilt Corporation;87894;PeachPuff;7;39.65;100;true;1733125508
+115;Canon;79476;IndianRed ;8;54.80;100;true;1733089853
+116;Science Exchange;20740;SlateGray;8;32.52;100;true;1733043400
+117;Boundless;73780;Indigo ;4;34.46;100;true;1733128700
+118;Tendril;73450;DarkSalmon;5;74.52;100;true;1733116650
+119;Experian;58950;Linen;8;73.07;100;true;1732987247
+120;Propeller Health;98083;GhostWhite;7;59.69;100;true;1733119615
+121;Oversight Systems;82331;Purple;4;28.37;100;true;1733038816
+122;indoo.rs;72993;AntiqueWhite;7;37.13;100;true;1732994674
+123;Ontodia, Inc;82715;BlanchedAlmond;6;34.12;100;true;1733051578
+124;GuideStar;34535;LightSalmon;5;67.78;100;true;1733049508
+125;KPMG;98119;SeaShell;8;26.16;100;true;1733013696
+126;Yelp;21908;Tomato;4;33.83;100;true;1733119128
+127;Ecodesk;34038;LightSteelBlue;6;66.53;100;true;1732983367
+128;Mapbox;45433;LawnGreen;8;48.37;100;true;1733040628
+129;GenoSpace;2659;Salmon;6;73.77;100;true;1733098189
+130;Business Monitor International;67329;Red;6;77.26;100;true;1733121127
+131;Ernst & Young LLP;16155;IndianRed ;6;78.02;100;true;1733099345
+132;Clean Power Finance;41733;Cyan;7;59.46;100;true;1733010739
+133;ASC Partners;71242;DarkOrchid;5;32.37;100;true;1733044875
+134;Lenddo;33288;SeaGreen;4;53.70;100;true;1733129194
+135;Innovest Systems;1455;BlueViolet;4;45.24;100;true;1733007361
+136;Lucid;26878;Tomato;4;51.80;100;true;1733113167
+137;TrustedID;91293;Gainsboro;4;41.65;100;true;1733050241
+138;Kaiser Permanante;36710;MintCream;7;77.46;100;true;1732980050
+139;LegiNation, Inc.;32178;DarkGoldenRod;6;30.20;100;true;1733022242
+140;Nationwide Mutual Insurance Company;15852;Black;7;37.51;100;true;1733125770
+141;ProgrammableWeb;26128;RoyalBlue;4;33.74;100;true;1732981821
+142;Merrill Lynch;87680;PaleGreen;4;76.90;100;true;1733093212
+143;BetterLesson;55566;DarkMagenta;5;53.33;100;true;1732972742
+144;TransparaGov;46552;DarkTurquoise;6;70.26;100;true;1733092395
+145;SpeSo Health;21039;Silver;4;38.79;100;true;1732978529
+146;optiGov;40099;DarkSalmon;6;21.67;100;true;1733062364
+147;Factual;86463;Lime;4;49.43;100;true;1733090063
+148;NERA Economic Consulting;89173;PaleTurquoise;5;67.05;100;true;1733022998
+149;Aidin;23641;Ivory;6;54.42;100;true;1733101205
+150;J.P. Morgan Chase;5234;RoyalBlue;5;40.77;100;true;1732978171
+151;Govini;86984;Salmon;6;64.62;100;true;1732984299
+152;Ceiba Solutions;27768;PaleGreen;6;33.16;100;true;1733013685
+153;SpotHero.com;37162;DarkCyan;4;53.22;100;true;1732982137
+154;CityScan;99996;MidnightBlue;4;77.03;100;true;1733049436
+155;Lawdragon;89869;OldLace;6;73.68;100;true;1733122623
+156;Way Better Patents;90212;DarkGreen;6;40.93;100;true;1732985565
+157;Simple Energy;70896;Brown;4;30.39;100;true;1732997510
+158;Morgan Stanley;95347;MediumOrchid;8;71.16;100;true;1732980252
+159;Factual;6914;CornflowerBlue;8;53.56;100;true;1733041785
+160;LOVELAND Technologies;83670;MediumSpringGreen;7;77.27;100;true;1733125833
+161;Department of Better Technology;8005;MediumPurple;4;38.30;100;true;1732997639
+162;OpportunitySpace, Inc.;82735;Yellow;8;78.76;100;true;1732986501
+163;Alltuition;60374;SeaShell;8;23.89;100;true;1733089791
+164;eInstitutional;81490;DarkMagenta;5;52.50;100;true;1733033793
+165;Remi;4018;LimeGreen;5;47.34;100;true;1733105803
+166;Aureus Sciences (*Now part of Elsevier);71031;Indigo ;4;44.17;100;true;1733070232
+167;NuCivic;15773;PaleTurquoise;5;57.53;100;true;1732986006
+168;eInstitutional;46911;Linen;7;73.83;100;true;1733121563
+169;PatientsLikeMe;37243;HotPink;7;26.55;100;true;1733027341
+170;Maponics;30328;Navy;6;33.36;100;true;1733007369
+171;IW Financial;39921;OrangeRed;4;28.92;100;true;1733007164
+172;Maponics;69141;DarkSlateGray;7;50.02;100;true;1732998150
+173;GuideStar;13226;LightGreen;7;51.66;100;true;1733094844
+174;Relationship Science;7046;Silver;7;68.00;100;true;1733065747
+175;Archimedes Inc.;54246;LightSeaGreen;4;40.13;100;true;1733117705
+176;Symcat;79196;Gold;6;24.49;100;true;1732981891
+177;PricewaterhouseCoopers (PWC);66569;Beige;8;66.17;100;true;1732996009
+178;Quertle;52530;Sienna;4;66.24;100;true;1733017993
+179;Estately;45047;LightYellow;6;60.03;100;true;1733119768
+180;Booz Allen Hamilton;59759;Olive;7;60.84;100;true;1733099184
+181;Owler;72242;HotPink;6;75.80;100;true;1733096721
+182;Avvo;87982;Gold;6;44.06;100;true;1733010957
+183;AllState Insurance Group;59330;SandyBrown;4;50.27;100;true;1733085402
+184;POPVOX;19818;DarkCyan;5;49.17;100;true;1733046121
+185;FlightStats;75184;DarkKhaki;7;72.85;100;true;1733116379
+186;National Van Lines;71957;Beige;7;24.50;100;true;1733071595
+187;Wolters Kluwer;15511;DarkSalmon;7;37.62;100;true;1732978195
+188;Epsilon;82956;LawnGreen;7;42.78;100;true;1732979478
+189;StreetCred Software, Inc;33775;Blue;6;34.73;100;true;1733096181
+190;Parsons Brinckerhoff;16707;LightSalmon;5;66.79;100;true;1733132545
+191;Chubb;76735;HoneyDew;6;68.01;100;true;1733032455
+192;Smart Utility Systems;67223;Moccasin;6;76.13;100;true;1733043944
+193;Credit Karma;82730;PaleVioletRed;8;20.11;100;true;1733098709
+194;Booz Allen Hamilton;80153;MediumSpringGreen;4;27.01;100;true;1733138587
+195;StreamLink Software;8721;Salmon;6;20.76;100;true;1732997028
+196;AccuWeather;60125;MediumOrchid;6;43.12;100;true;1733077638
+197;xDayta;27735;SeaGreen;5;43.34;100;true;1733113756
+198;Cappex;31102;MistyRose;5;60.99;100;true;1733054507
+199;Exversion;29581;Olive;6;74.10;100;true;1733139189
+200;3 Round Stones, Inc.;37725;Purple;6;64.37;100;true;1733094867
+201;Adaptive;97874;DarkGray;7;24.95;100;true;1733008343
+202;WaterSmart Software;47601;SeaShell;4;79.50;100;true;1733062404
+203;Xatori;64633;White;5;64.19;100;true;1732991061
+204;Avalara;50502;DarkMagenta;5;49.57;100;true;1733014306
+205;Xignite;34553;Coral;7;58.73;100;true;1733084538
+206;JJ Keller;85315;MediumAquaMarine;8;21.78;100;true;1733119930
+207;IFI CLAIMS Patent Services;21571;GhostWhite;7;61.16;100;true;1733132085
+208;Walk Score;41362;BurlyWood;7;24.59;100;true;1732982346
+209;Loqate, Inc.;27626;LightSeaGreen;5;69.29;100;true;1732990501
+210;Boundless;16782;Tomato;5;43.70;100;true;1733097356
+211;BillGuard;78932;WhiteSmoke;4;31.26;100;true;1733063744
+212;Healthline;82528;DarkBlue;8;35.41;100;true;1733089717
+213;Factset;19565;SkyBlue;6;27.28;100;true;1733077199
+214;Weather Channel;63553;Ivory;7;34.09;100;true;1733050142
+215;SmartAsset;85344;DarkOliveGreen;5;21.45;100;true;1733123480
+216;PeerJ;64749;AntiqueWhite;8;40.40;100;true;1733052608
+217;Epsilon;8308;Fuchsia;7;50.64;100;true;1733112274
+218;IW Financial;79303;Green;6;74.09;100;true;1733126804
+219;Ecodesk;56647;Crimson;5;46.01;100;true;1733055960
+220;Center for Responsive Politics;27740;LightGreen;8;39.20;100;true;1733094289
+221;Booz Allen Hamilton;72596;DarkBlue;6;67.49;100;true;1733033346
+222;Bridgewater;38786;Indigo ;7;62.05;100;true;1733011792
+223;Parsons Brinckerhoff;73032;MintCream;5;74.47;100;true;1732990898
+224;Legal Science Partners;27144;SeaShell;8;74.04;100;true;1733012024
+225;Government Transaction Services;42637;LightSeaGreen;7;39.86;100;true;1733064212
+226;KidAdmit, Inc.;26103;Aquamarine;6;72.74;100;true;1733130856
+227;Forrester Research;57048;Lavender;8;37.99;100;true;1733026375
+228;Verdafero;35989;Indigo ;4;68.18;100;true;1732987083
+229;Deloitte;70518;DarkGreen;4;66.64;100;true;1733064588
+230;Code-N;61477;DarkOrchid;6;24.52;100;true;1733040848
+231;WeMakeItSafer;69385;MediumOrchid;5;74.57;100;true;1733135709
+232;RAND Corporation;78155;Fuchsia;8;79.75;100;true;1733106721
+233;Ontodia, Inc;94788;Thistle;7;71.97;100;true;1732978156
+234;Synthicity;71823;LightYellow;5;26.67;100;true;1733123418
+235;CGI;21060;DeepPink;5;35.03;100;true;1733106318
+236;Healthline;62200;DodgerBlue;4;68.91;100;true;1733059421
+237;Redfin;76340;Fuchsia;5;54.70;100;true;1733021694
+238;Porch;85699;SandyBrown;8;23.58;100;true;1732971291
+239;Adaptive;41421;Fuchsia;4;27.72;100;true;1732982122
+240;McGraw Hill Financial;99209;CornflowerBlue;7;36.97;100;true;1733121795
+241;DemystData;78002;Cyan;7;52.96;100;true;1732988863
+242;SpotHero.com;63591;GreenYellow;6;27.72;100;true;1733062873
+243;Energy Solutions Forum;30648;YellowGreen;5;64.86;100;true;1733063686
+244;Knowledge Agency;1582;Ivory;4;60.84;100;true;1733042530
+245;Mercaris;68778;Chocolate;8;53.36;100;true;1733117579
+246;Trintech;2995;Peru;6;47.92;100;true;1733108989
+247;eInstitutional;63566;Aqua;8;66.21;100;true;1733113209
+248;Dun & Bradstreet;35590;Silver;8;29.75;100;true;1732990606
+249;Esri;98506;PowderBlue;4;62.76;100;true;1733076623
+250;CoolClimate;74898;Olive;7;56.22;100;true;1733003950
+251;Orlin Research;17546;DarkRed;6;34.67;100;true;1733081411
+252;Urban Airship;8829;Thistle;8;27.91;100;true;1733128948
+253;Jurispect;21900;OldLace;8;43.48;100;true;1733047461
+254;TowerData;57099;Sienna;7;43.54;100;true;1733068924
+255;VisualDoD, LLC;1416;LightCyan;5;65.59;100;true;1733119800
+256;The Govtech Fund;28308;SlateBlue;7;43.22;100;true;1733114956
+257;Everyday Health;98333;DeepSkyBlue;7;58.59;100;true;1733000483
+258;Earth Networks;18654;MediumPurple;5;33.93;100;true;1733054180
+259;Kroll Bond Ratings Agency;88265;Bisque;5;71.32;100;true;1733050337
+260;3 Round Stones, Inc.;27278;LawnGreen;6;46.95;100;true;1732969594
+261;ClearHealthCosts;66681;Silver;8;59.34;100;true;1733105061
+262;YourMapper;19948;SeaShell;5;28.79;100;true;1732983484
+263;Numedii;51388;Cornsilk;7;49.01;100;true;1733138615
+264;The DocGraph Journal;87385;Plum;6;29.81;100;true;1733061541
+265;REI Systems;83354;Bisque;8;29.75;100;true;1733121577
+266;MetLife;20684;Yellow;5;77.22;100;true;1732991611
+267;PlotWatt;33041;DimGray;7;25.07;100;true;1733116538
+268;Zonability;31953;Azure;5;67.77;100;true;1733009376
+269;StreamLink Software;15163;DeepPink;5;62.06;100;true;1732987979
+270;CB Insights;23478;MistyRose;4;65.89;100;true;1733102596
+271;Accenture;36464;MistyRose;7;32.92;100;true;1733112005
+272;The Bridgespan Group;15122;LavenderBlush;4;24.88;100;true;1733068799
+273;Lending Club;98614;Maroon;4;77.05;100;true;1733077977
+274;Healthline;32018;HotPink;7;24.95;100;true;1733058478
+275;Compared Care;65938;LightPink;6;26.52;100;true;1733002945
+276;Chemical Abstracts Service;83196;Yellow;8;54.58;100;true;1733038347
+277;Qado Energy, Inc.;72399;Coral;7;78.32;100;true;1733056132
+278;Cerner;46941;LavenderBlush;8;20.08;100;true;1733085041
+279;Factset;30108;LemonChiffon;4;37.28;100;true;1733010220
+280;Zoner;93332;Maroon;4;64.12;100;true;1733069302
+281;SeeClickFix;62774;Azure;4;47.70;100;true;1733025590
+282;HealthMap;4026;PaleVioletRed;6;35.16;100;true;1733107276
+283;Granicus;49901;LemonChiffon;7;58.45;100;true;1733033696
+284;AtSite;29575;DarkRed;7;23.18;100;true;1733097809
+285;Lumesis, Inc.;71937;Cyan;5;72.14;100;true;1732996512
+286;Evidera;59874;RosyBrown;5;22.36;100;true;1733134079
+287;Locavore;74576;Linen;4;48.61;100;true;1732991245
+288;Asset4;33234;PeachPuff;4;49.60;100;true;1733095523
+289;Workhands;21634;MediumSeaGreen;6;70.30;100;true;1733058681
+290;TransUnion;12953;LightPink;6;23.49;100;true;1733071836
+291;Splunk;91234;PaleGreen;4;58.39;100;true;1733016396
+292;Altova;82325;Coral;7;75.67;100;true;1733037562
+293;Trintech;59637;SteelBlue;7;73.50;100;true;1732973774
+294;USAA Group;78229;PaleTurquoise;4;21.09;100;true;1733124875
+295;Careset.com;64097;LimeGreen;4;57.85;100;true;1733022279
+296;Rapid Cycle Solutions;33352;LemonChiffon;4;41.29;100;true;1732986763
+297;Bloomberg;44714;DarkSlateBlue;8;72.56;100;true;1733120237
+298;Ecodesk;40445;DodgerBlue;5;71.04;100;true;1732984205
+299;Smart Utility Systems;56996;MistyRose;8;44.11;100;true;1733060900
+300;Credit Sesame;6967;DarkGoldenRod;6;68.11;100;true;1733110849
+301;Accela;64820;Magenta;4;42.20;100;true;1733071183
+302;GitHub;5298;Azure;6;46.92;100;true;1733009752
+303;Govini;44760;CornflowerBlue;5;27.91;100;true;1733081363
+304;GreatSchools;5402;LightSalmon;6;41.41;100;true;1732982238
+305;Analytica;24378;MediumSlateBlue;6;68.82;100;true;1733106328
+306;Computer Packages Inc;28712;SlateGray;5;41.84;100;true;1733039020
+307;Standard and Poor's;90530;Moccasin;6;22.92;100;true;1733085242
+308;Junyo;46735;LightCoral;5;21.98;100;true;1733011276
+309;Kaiser Permanante;83878;LightPink;8;25.33;100;true;1733078289
+310;Vimo;30230;Khaki;6;57.30;100;true;1733104624
+311;STILLWATER SUPERCOMPUTING INC;88550;MediumPurple;4;73.34;100;true;1732985056
+312;SocialEffort Inc;17582;LightGray;5;56.48;100;true;1732996559
+313;Business and Legal Resources;7435;Crimson;6;38.19;100;true;1732993591
+314;Numedii;46850;Linen;6;31.26;100;true;1733091326
+315;Predilytics;49857;DarkGreen;6;53.25;100;true;1733023214
+316;ClearStory Data;98562;DimGray;7;67.92;100;true;1733087059
+317;Acxiom;50598;Tomato;6;68.77;100;true;1733139423
+318;College Abacus, an ECMC initiative;75168;DeepPink;6;26.97;100;true;1733061154
+319;Esri;70538;Tan;4;46.49;100;true;1733028011
+320;(Leg)Cyte;51023;LightGoldenRodYellow;6;65.42;100;true;1732978704
+321;Aureus Sciences (*Now part of Elsevier);42946;Cyan;5;64.67;100;true;1733137059
+322;The Schork Report;71814;Blue;8;52.25;100;true;1733077008
+323;Merrill Lynch;95012;DarkBlue;7;20.55;100;true;1733136810
+324;Oliver Wyman;66815;Tan;6;61.52;100;true;1733125133
+325;Housefax;58899;Indigo ;6;53.14;100;true;1733014132
+326;PowerAdvocate;34655;Maroon;7;43.79;100;true;1733024246
+327;Lending Club;88297;LightSalmon;6;55.42;100;true;1733066844
+328;Lending Club;8139;Orchid;6;70.78;100;true;1733081692
+329;Weight Watchers;76832;MintCream;5;46.98;100;true;1733075847
+330;NERA Economic Consulting;9140;NavajoWhite;8;31.96;100;true;1733031314
+331;AreaVibes Inc.;66959;Lime;7;63.50;100;true;1733067195
+332;3 Round Stones, Inc.;21980;Indigo ;4;31.81;100;true;1732991459
+333;Certara;31031;GoldenRod;4;32.41;100;true;1733057499
+334;Microsoft Windows Azure Marketplace;83461;HotPink;6;72.29;100;true;1733074134
+335;Inrix Traffic;38202;Beige;7;31.35;100;true;1733014425
+336;Revelstone;58746;Darkorange;5;39.45;100;true;1733048643
+337;Foursquare;59184;Brown;5;66.98;100;true;1733096000
+338;Merrill Corp.;70776;LightSlateGray;8;29.20;100;true;1733059779
+339;U.S. News Schools;15981;Sienna;7;59.55;100;true;1733047172
+340;Social Explorer;24202;HoneyDew;8;30.21;100;true;1733096876
+341;Energy Solutions Forum;5710;LightSalmon;5;37.48;100;true;1733063265
+342;Boston Consulting Group;62642;LimeGreen;4;21.68;100;true;1732982702
+343;Retroficiency;33218;Ivory;5;51.68;100;true;1733099931
+344;Vimo;35055;YellowGreen;8;64.13;100;true;1733091870
+345;McKinsey;91983;Pink;7;25.60;100;true;1733077638
+346;ideas42;78758;LightGray;6;63.96;100;true;1733109115
+347;Citigroup;26869;LightBlue;6;39.06;100;true;1733084762
+348;PublicEngines;24021;BlanchedAlmond;5;67.95;100;true;1733096547
+349;StockSmart;73648;Beige;6;68.78;100;true;1733043035
+350;OpenGov;70488;MediumSeaGreen;8;44.33;100;true;1733080235
+351;Quid;47668;MediumBlue;6;76.54;100;true;1733106752
+352;StockSmart;25242;Sienna;5;25.88;100;true;1733040134
+353;PayScale, Inc.;93803;PapayaWhip;5;75.28;100;true;1733141537
+354;Allied Van Lines;40085;Orchid;8;60.26;100;true;1733060360
+355;Bridgewater;95652;DarkMagenta;5;48.38;100;true;1733099752
+356;CityScan;5347;DarkSlateGray;6;52.62;100;true;1733091046
+357;SAP;15470;MediumBlue;5;76.78;100;true;1733033511
+358;HopStop;68048;OrangeRed;8;59.22;100;true;1733087055
+359;Google Public Data Explorer;60806;DarkOliveGreen;8;58.75;100;true;1732999338
+360;karmadata;95351;MediumPurple;6;54.47;100;true;1732990958
+361;Development Seed;65299;MidnightBlue;6;70.77;100;true;1733099588
+362;CAN Capital;43157;SaddleBrown;5;62.61;100;true;1733022794
+363;Politify;78499;Purple;5;40.99;100;true;1733011851
+364;NERA Economic Consulting;98228;PeachPuff;5;24.03;100;true;1733034342
+365;Barchart;77039;MediumBlue;6;54.51;100;true;1733135980
+366;Wheaton World Wide Moving;63364;BlanchedAlmond;5;58.45;100;true;1733040875
+367;CliniCast;53878;Violet;8;37.35;100;true;1733104133
+368;People Power;94559;ForestGreen;6;59.49;100;true;1733111564
+369;Lending Club;82201;LightSlateGray;4;38.07;100;true;1733040863
+370;Zoner;14615;BurlyWood;4;61.99;100;true;1733066929
+371;Wolters Kluwer;79639;LightCoral;4;27.45;100;true;1733001728
+372;H3 Biomedicine;24601;DarkCyan;4;28.43;100;true;1733105922
+373;Roadify Transit;85524;Coral;7;53.40;100;true;1732981201
+374;Climate Corporation;65473;Ivory;8;67.58;100;true;1733135595
+375;Civis Analytics;14598;LightCoral;8;58.66;100;true;1733112052
+376;Marlin & Associates;3287;AliceBlue;8;38.97;100;true;1733100770
+377;USSearch;74906;LimeGreen;6;56.12;100;true;1733100477
+378;Liquid Robotics;97524;SeaGreen;8;24.11;100;true;1733060447
+379;Credit Sesame;28066;AntiqueWhite;5;39.46;100;true;1733039319
+380;StreetEasy;81666;SteelBlue;4;65.85;100;true;1733122041
+381;SimpleTuition;7218;SeaShell;6;27.20;100;true;1733133696
+382;The Advisory Board Company;41046;PaleVioletRed;4;65.53;100;true;1733025515
+383;Nationwide Mutual Insurance Company;47187;DarkCyan;5;49.10;100;true;1733021902
+384;Government Transaction Services;56590;LightGray;8;28.37;100;true;1733098281
+385;PolicyMap;26773;GreenYellow;4;33.70;100;true;1732992151
+386;OpenGov;6204;LightGray;5;22.87;100;true;1733080126
+387;US Green Data;66712;DodgerBlue;8;62.83;100;true;1733015136
+388;MicroBilt Corporation;25661;PaleTurquoise;8;65.37;100;true;1733069775
+389;Dabo Health;24021;MediumVioletRed;8;26.61;100;true;1733137310
+390;Appallicious;88211;Navy;7;45.69;100;true;1733132026
+391;Kaiser Permanante;70896;PeachPuff;6;63.83;100;true;1733138231
+392;Datamyne;29212;Gold;5;35.02;100;true;1733071264
+393;OSIsoft;4303;Blue;6;27.71;100;true;1733107593
+394;Enervee Corporation;46696;DarkGray;6;51.29;100;true;1733115009
+395;Lending Club;39736;LightSeaGreen;4;61.84;100;true;1733043240
+396;ClearHealthCosts;27798;GhostWhite;6;59.18;100;true;1733038441
+397;Oliver Wyman;25480;GhostWhite;7;69.90;100;true;1733026230
+398;SigFig;5058;SlateBlue;6;57.06;100;true;1733137325
+399;Numedii;49492;Olive;6;47.14;100;true;1733115936
+400;ClearStory Data;30411;MediumSlateBlue;7;24.60;100;true;1733081208
+401;J.P. Morgan Chase;24293;FireBrick;5;39.46;100;true;1733063614
+402;Civinomics;30873;Teal;6;36.22;100;true;1732969234
+403;DataMarket;8804;DeepSkyBlue;4;77.83;100;true;1733090303
+404;CostQuest;33223;Chartreuse;6;37.80;100;true;1733121936
+405;PatientsLikeMe;96682;Tomato;5;60.51;100;true;1733112931
+406;Earthquake Alert!;40433;GhostWhite;7;79.89;100;true;1733063006
+407;FlightView;53425;Crimson;8;27.10;100;true;1733040212
+408;The DocGraph Journal;35849;DeepPink;6;44.50;100;true;1733013636
+409;WaterSmart Software;69941;NavajoWhite;4;54.42;100;true;1733019240
+410;CoreLogic;8476;CornflowerBlue;6;50.35;100;true;1732981400
+411;Morgan Stanley;66185;Brown;6;63.69;100;true;1732977844
+412;MuckRock.com;76305;PaleGoldenRod;6;52.33;100;true;1732982356
+413;Paxata;80650;GoldenRod;8;60.07;100;true;1732991059
+414;ProPublica;58782;Snow;5;65.30;100;true;1733084798
+415;StockSmart;18420;SkyBlue;5;39.28;100;true;1733001314
+416;Noesis;38288;Sienna;4;41.52;100;true;1733132775
+417;Unigo LLC;64156;Plum;5;64.00;100;true;1732997302
+418;Thomson Reuters;71230;DimGray;6;77.59;100;true;1733140547
+419;Workhands;97069;Gainsboro;8;21.69;100;true;1733069169
+420;ProPublica;75315;Beige;7;63.92;100;true;1733069554
+421;OTC Markets;64961;Moccasin;4;68.71;100;true;1732981930
+422;Tableau Software;44994;Gainsboro;5;72.91;100;true;1733029425
+423;BillGuard;20626;DimGray;4;46.39;100;true;1733039899
+424;Moody's;17827;HoneyDew;5;75.80;100;true;1732996709
+425;Galorath Incorporated;42060;OldLace;8;30.73;100;true;1732996934
+426;Smart Utility Systems;52063;OliveDrab;4;41.80;100;true;1733059385
+427;Nationwide Mutual Insurance Company;80396;NavajoWhite;5;44.56;100;true;1733038195
+428;USSearch;18774;DarkGray;4;23.01;100;true;1733096169
+429;Foursquare;25295;DimGray;7;28.99;100;true;1733046738
+430;Epsilon;67340;WhiteSmoke;6;32.73;100;true;1733015632
+431;GuideStar;93427;MediumSeaGreen;8;38.22;100;true;1733121740
+432;Wolfram Research;40273;Aquamarine;5;37.02;100;true;1733035281
+433;Business Monitor International;59257;SandyBrown;5;56.37;100;true;1733108565
+434;Tendril;36600;SeaGreen;8;44.25;100;true;1733077420
+435;Gallup;569;Sienna;5;69.95;100;true;1733006658
+436;Junar, Inc.;14479;Bisque;5;54.03;100;true;1733132157
+437;Credit Sesame;83380;DarkSlateBlue;8;35.34;100;true;1732985553
+438;WebFilings;98953;Bisque;4;52.41;100;true;1733124267
+439;Oliver Wyman;62624;SaddleBrown;4;73.21;100;true;1733080547
+440;GetRaised;22159;LightPink;7;68.34;100;true;1733123590
+441;Lilly Open Innovation Drug Discovery;27227;DarkGray;5;43.04;100;true;1732990220
+442;Synthicity;80242;GreenYellow;5;72.49;100;true;1733016397
+443;TrueCar;21552;MediumAquaMarine;5;68.68;100;true;1733042242
+444;Junar, Inc.;26522;Darkorange;4;77.43;100;true;1733138204
+445;TransparaGov;67855;MintCream;5;31.88;100;true;1733129951
+446;NonprofitMetrics;400;SlateGray;6;66.66;100;true;1733114092
+447;Knowledge Agency;95516;Maroon;7;55.52;100;true;1733009644
+448;Redfin;31889;Gainsboro;4;30.18;100;true;1732996083
+449;Barchart;30948;LightYellow;7;79.29;100;true;1732997887
+450;Ranku;45018;LawnGreen;8;66.29;100;true;1733039169
+451;Food+Tech Connect;8172;Indigo ;7;56.18;100;true;1733115481
+452;Numedii;39678;OliveDrab;8;41.69;100;true;1732974623
+453;Plus-U;65249;SeaGreen;8;31.05;100;true;1733051388
+454;Ranku;9009;PaleVioletRed;5;38.82;100;true;1733141245
+455;Reed Elsevier;18493;YellowGreen;5;48.27;100;true;1733105559
+456;SmartProcure;12708;DeepPink;5;68.47;100;true;1733026032
+457;Archimedes Inc.;49400;LavenderBlush;7;60.30;100;true;1733078951
+458;Development Seed;30771;LightSteelBlue;6;77.61;100;true;1732992928
+459;Practice Fusion;85871;FireBrick;8;31.74;100;true;1732995556
+460;Azavea;69493;LightBlue;8;65.46;100;true;1733032884
+461;People Power;66681;OldLace;5;68.34;100;true;1733092475
+462;Redfin;30348;OldLace;4;56.79;100;true;1733123907
+463;J.P. Morgan Chase;68536;MediumSeaGreen;8;43.75;100;true;1733061782
+464;DataMade;31832;Aquamarine;8;37.99;100;true;1733056474
+465;HERE;55585;MediumBlue;8;51.19;100;true;1732989558
+466;Orlin Research;71066;DodgerBlue;4;50.06;100;true;1733013729
+467;USAA Group;86735;Crimson;7;23.74;100;true;1733029805
+468;R R Donnelley;63042;NavajoWhite;5;72.51;100;true;1732999742
+469;GoodGuide;77503;BlueViolet;5;62.18;100;true;1733104495
+470;TrialX;86562;Gold;8;60.89;100;true;1733044731
+471;Accenture;45536;LightYellow;7;32.53;100;true;1732999837
+472;PublicEngines;41737;OrangeRed;8;66.97;100;true;1733003625
+473;Adaptive;89520;Snow;5;23.25;100;true;1732993465
+474;Votizen;19000;AliceBlue;4;30.16;100;true;1733073074
+475;Biovia;62620;MediumVioletRed;5;32.47;100;true;1732986801
+476;J.P. Morgan Chase;18744;BlueViolet;5;62.76;100;true;1733084637
+477;AreaVibes Inc.;15716;MediumOrchid;5;63.48;100;true;1733124957
+478;TransparaGov;4868;LavenderBlush;6;44.62;100;true;1733131314
+479;Atlas Van Lines;5352;LightGray;7;28.86;100;true;1732971681
+480;TrialX;7904;LightGoldenRodYellow;4;44.81;100;true;1732996063
+481;iTriage;6456;SkyBlue;6;62.88;100;true;1733085121
+482;StreamLink Software;13723;MediumTurquoise;8;35.81;100;true;1733107096
+483;Remi;69342;LemonChiffon;5;57.19;100;true;1733074229
+484;Thomson Reuters;61448;LightPink;8;50.28;100;true;1733048098
+485;Computer Packages Inc;1954;DarkGray;6;64.38;100;true;1733135928
+486;H3 Biomedicine;63300;LemonChiffon;7;33.34;100;true;1733043065
+487;ProgrammableWeb;92801;DeepPink;6;51.57;100;true;1733097610
+488;Bekins;5422;LightGoldenRodYellow;5;44.44;100;true;1733027732
+489;iRecycle;15570;Gold;5;70.62;100;true;1733133537
+490;Reed Elsevier;18465;Silver;5;50.58;100;true;1732993045
+491;SpaceCurve;31540;DarkBlue;7;69.26;100;true;1732991807
+492;realtor.com;52898;Aquamarine;7;36.28;100;true;1733009901
+493;ProPublica;95195;Tan;7;77.83;100;true;1733015655
+494;Cappex;79734;DeepSkyBlue;8;55.71;100;true;1733087357
+495;Dabo Health;38537;LightBlue;6;64.58;100;true;1732983368
+496;3 Round Stones, Inc.;41983;LightSalmon;5;61.26;100;true;1733113586
+497;FlightStats;6393;LightSalmon;8;42.47;100;true;1733039814
+498;SpotCrime;90591;DodgerBlue;4;40.23;100;true;1733041319
+499;Civinomics;96025;Olive;6;73.99;100;true;1733117020
+500;Knowledge Agency;63782;DimGray;4;27.75;100;true;1733111835

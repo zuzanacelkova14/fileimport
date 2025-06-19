@@ -1,0 +1,151 @@
+item_id;supplier;category_id;color;image;size;price;stock_level;active;date_added
+1;Personalis;77406;BlueViolet;https://picsum.photos/800/600;5;61.95;100;true;1733119375
+2;ClearHealthCosts;92725;MediumAquaMarine;https://picsum.photos/800/600;6;53.58;100;true;1732978769
+3;Enervee Corporation;46756;Yellow;https://picsum.photos/800/600;7;27.07;100;true;1732983402
+4;realtor.com;44056;DarkOliveGreen;https://picsum.photos/800/600;8;32.95;100;true;1733113468
+5;Cambridge Information Group;92314;ForestGreen;https://picsum.photos/800/600;6;41.55;100;true;1733140736
+6;Knowledge Agency;50486;Turquoise;https://picsum.photos/800/600;7;22.72;100;true;1732994892
+7;Healthline;55191;PowderBlue;https://picsum.photos/800/600;4;62.55;100;true;1733077649
+8;BuildZoom;3605;LawnGreen;https://picsum.photos/800/600;7;38.89;100;true;1733048317
+9;Graematter, Inc.;24985;Olive;https://picsum.photos/800/600;5;38.98;100;true;1732989527
+10;POPVOX;21410;Brown;https://picsum.photos/800/600;8;26.78;100;true;1733108120
+11;Iodine;21268;DarkOrchid;https://picsum.photos/800/600;7;39.85;100;true;1733048983
+12;Citigroup;5717;PaleTurquoise;https://picsum.photos/800/600;5;44.84;100;true;1732997297
+13;AreaVibes Inc.;79630;MediumTurquoise;https://picsum.photos/800/600;8;46.85;100;true;1733087518
+14;TuvaLabs;52014;Darkorange;https://picsum.photos/800/600;7;28.73;100;true;1733029788
+15;Climate Corporation;55780;LightSteelBlue;https://picsum.photos/800/600;7;41.66;100;true;1732970984
+16;Healthgrades;95986;LightSeaGreen;https://picsum.photos/800/600;6;49.82;100;true;1733054609
+17;Barchart;37776;White;https://picsum.photos/800/600;5;51.50;100;true;1733109047
+18;Porch;77132;HotPink;https://picsum.photos/800/600;7;31.92;100;true;1732972983
+19;Marlin Alter and Associates;904;Violet;https://picsum.photos/800/600;4;60.94;100;true;1733078277
+20;Cambridge Information Group;54206;PapayaWhip;https://picsum.photos/800/600;6;72.80;100;true;1732992791
+21;OnStar;4110;LightSteelBlue;https://picsum.photos/800/600;6;33.29;100;true;1733003312
+22;WebFilings;23185;MediumVioletRed;https://picsum.photos/800/600;5;60.39;100;true;1733046594
+23;Quandl;55194;SlateGray;https://picsum.photos/800/600;6;31.94;100;true;1733060460
+24;Ernst & Young LLP;8185;MediumSpringGreen;https://picsum.photos/800/600;7;67.47;100;true;1733067413
+25;Equal Pay for Women;58590;Olive;https://picsum.photos/800/600;6;53.85;100;true;1733050512
+26;Nationwide Mutual Insurance Company;10338;Peru;https://picsum.photos/800/600;7;49.83;100;true;1732979685
+27;Computer Packages Inc;91101;FireBrick;https://picsum.photos/800/600;4;36.68;100;true;1732992974
+28;Revaluate;72733;Aqua;https://picsum.photos/800/600;4;48.43;100;true;1732980958
+29;Mango Transit;20394;CadetBlue;https://picsum.photos/800/600;7;30.55;100;true;1733039343
+30;Russell Investments;26449;PowderBlue;https://picsum.photos/800/600;5;58.33;100;true;1733016840
+31;Barchart;53511;SaddleBrown;https://picsum.photos/800/600;4;78.19;100;true;1733118095
+32;Recargo;68081;BlueViolet;https://picsum.photos/800/600;7;71.47;100;true;1733117481
+33;Zoner;66326;LimeGreen;https://picsum.photos/800/600;6;71.11;100;true;1733077712
+34;StreetCred Software, Inc;88296;LemonChiffon;https://picsum.photos/800/600;5;43.74;100;true;1733059553
+35;Analytica;26812;Wheat;https://picsum.photos/800/600;6;27.26;100;true;1732995258
+36;BetterLesson;79514;MediumSpringGreen;https://picsum.photos/800/600;6;47.69;100;true;1733109259
+37;Relationship Science;47979;Wheat;https://picsum.photos/800/600;6;52.55;100;true;1732999178
+38;Evidera;37238;Gold;https://picsum.photos/800/600;6;73.62;100;true;1733111782
+39;Knowledge Agency;94865;DarkGoldenRod;https://picsum.photos/800/600;5;27.31;100;true;1733030296
+40;Wheaton World Wide Moving;80672;Turquoise;https://picsum.photos/800/600;6;40.07;100;true;1733071457
+41;Recargo;57853;LightBlue;https://picsum.photos/800/600;8;37.00;100;true;1733010317
+42;Way Better Patents;2362;Darkorange;https://picsum.photos/800/600;7;72.07;100;true;1733089295
+43;USSearch;94603;DarkMagenta;https://picsum.photos/800/600;7;29.83;100;true;1733081559
+44;Healthline;19162;Orange;https://picsum.photos/800/600;6;59.22;100;true;1733100924
+45;Import.io;26256;Snow;https://picsum.photos/800/600;7;58.96;100;true;1733120236
+46;American Red Ball Movers;77826;SlateGray;https://picsum.photos/800/600;7;45.13;100;true;1733025059
+47;Accela;44700;LightPink;https://picsum.photos/800/600;7;62.67;100;true;1733132733
+48;KidAdmit, Inc.;11653;Aquamarine;https://picsum.photos/800/600;8;34.88;100;true;1733035258
+49;LoseIt.com;97726;DeepPink;https://picsum.photos/800/600;5;26.23;100;true;1733108988
+50;ASC Partners;15183;MediumSlateBlue;https://picsum.photos/800/600;7;67.07;100;true;1733079987
+51;Urban Mapping, Inc;94279;Wheat;https://picsum.photos/800/600;8;73.72;100;true;1732981134
+52;U.S. News Schools;41604;LightSkyBlue;https://picsum.photos/800/600;5;41.45;100;true;1733098434
+53;indoo.rs;68232;DeepSkyBlue;https://picsum.photos/800/600;7;24.00;100;true;1733119264
+54;VitalChek;70546;Snow;https://picsum.photos/800/600;6;26.38;100;true;1733094850
+55;HopStop;65543;Navy;https://picsum.photos/800/600;8;67.14;100;true;1733129841
+56;Cerner;30192;IndianRed ;https://picsum.photos/800/600;5;20.40;100;true;1733086537
+57;Merrill Lynch;53424;Azure;https://picsum.photos/800/600;4;77.33;100;true;1733055809
+58;ProPublica;90943;SlateBlue;https://picsum.photos/800/600;4;22.00;100;true;1732972399
+59;Glassy Media;6193;BlueViolet;https://picsum.photos/800/600;8;58.38;100;true;1733043759
+60;Sage Bionetworks;38132;FloralWhite;https://picsum.photos/800/600;7;59.06;100;true;1733058784
+61;How's My Offer?;35288;LightYellow;https://picsum.photos/800/600;4;30.03;100;true;1733086722
+62;LoseIt.com;10196;LightSeaGreen;https://picsum.photos/800/600;8;56.96;100;true;1732972775
+63;InCadence;26924;Brown;https://picsum.photos/800/600;5;38.34;100;true;1732988350
+64;POPVOX;25166;SandyBrown;https://picsum.photos/800/600;5;41.12;100;true;1733105944
+65;Marinexplore, Inc.;84693;NavajoWhite;https://picsum.photos/800/600;5;32.26;100;true;1733044913
+66;College Board;55862;LawnGreen;https://picsum.photos/800/600;5;72.22;100;true;1733121216
+67;Acxiom;29991;RosyBrown;https://picsum.photos/800/600;7;66.68;100;true;1733106570
+68;PublicEngines;81758;Aqua;https://picsum.photos/800/600;6;49.56;100;true;1733087333
+69;AllState Insurance Group;89510;Moccasin;https://picsum.photos/800/600;8;79.87;100;true;1732994390
+70;TowerData;27833;MediumBlue;https://picsum.photos/800/600;7;40.97;100;true;1733041169
+71;StreetCred Software, Inc;44177;Cornsilk;https://picsum.photos/800/600;5;56.50;100;true;1732974230
+72;Locavore;10474;DarkRed;https://picsum.photos/800/600;7;24.41;100;true;1733010043
+73;Enervee Corporation;30824;MediumTurquoise;https://picsum.photos/800/600;6;54.06;100;true;1732974361
+74;State Farm Insurance;95623;Gainsboro;https://picsum.photos/800/600;4;48.22;100;true;1733057049
+75;National Van Lines;90561;SkyBlue;https://picsum.photos/800/600;6;55.43;100;true;1733018817
+76;Socrata;80604;Salmon;https://picsum.photos/800/600;6;32.70;100;true;1733075682
+77;Berkery Noyes MandASoft;4133;Ivory;https://picsum.photos/800/600;4;57.32;100;true;1733037739
+78;NuCivic;11402;NavajoWhite;https://picsum.photos/800/600;6;44.50;100;true;1733109878
+79;iRecycle;23049;LightSlateGray;https://picsum.photos/800/600;8;75.22;100;true;1733024505
+80;SnapSense;8792;LightSkyBlue;https://picsum.photos/800/600;8;26.78;100;true;1732973993
+81;DataWeave;21671;Green;https://picsum.photos/800/600;6;57.77;100;true;1732980635
+82;Headlight;96198;Lavender;https://picsum.photos/800/600;4;76.02;100;true;1733008406
+83;DataLogix;7171;Peru;https://picsum.photos/800/600;6;62.54;100;true;1733050503
+84;Headlight;72430;GhostWhite;https://picsum.photos/800/600;8;68.55;100;true;1733129819
+85;Development Seed;34819;DarkBlue;https://picsum.photos/800/600;4;28.12;100;true;1733029565
+86;Deloitte;96776;SteelBlue;https://picsum.photos/800/600;5;59.44;100;true;1733128841
+87;Consumer Reports;19289;MediumAquaMarine;https://picsum.photos/800/600;6;61.15;100;true;1733077956
+88;SigFig;21460;Pink;https://picsum.photos/800/600;7;68.00;100;true;1733134728
+89;Kaiser Permanante;88836;Cornsilk;https://picsum.photos/800/600;7;75.38;100;true;1733048014
+90;Oliver Wyman;54160;PaleGreen;https://picsum.photos/800/600;8;79.48;100;true;1733040328
+91;Open Data Nation;22676;LightSalmon;https://picsum.photos/800/600;8;20.51;100;true;1733135332
+92;Esri;51416;Beige;https://picsum.photos/800/600;7;20.13;100;true;1732980417
+93;Mint;60192;LightGoldenRodYellow;https://picsum.photos/800/600;8;66.85;100;true;1733006790
+94;PublicEngines;4399;LightSteelBlue;https://picsum.photos/800/600;4;34.44;100;true;1733037626
+95;Smart Utility Systems;35914;MintCream;https://picsum.photos/800/600;5;35.40;100;true;1732975015
+96;Citigroup;3546;MediumVioletRed;https://picsum.photos/800/600;4;69.13;100;true;1733051461
+97;Parsons Brinckerhoff;31862;HotPink;https://picsum.photos/800/600;4;67.30;100;true;1733116077
+98;Patently-O;11937;DodgerBlue;https://picsum.photos/800/600;8;78.03;100;true;1733081161
+99;Civic Insight;61043;LightCoral;https://picsum.photos/800/600;8;30.18;100;true;1733068912
+100;ProPublica;7072;MediumVioletRed;https://picsum.photos/800/600;4;22.58;100;true;1733021938
+101;Ontodia, Inc;49391;DarkTurquoise;https://picsum.photos/800/600;4;53.76;100;true;1733025672
+102;IVES Group Inc;5813;White;https://picsum.photos/800/600;5;59.80;100;true;1733075122
+103;IPHIX;49974;LightYellow;https://picsum.photos/800/600;7;57.04;100;true;1733136457
+104;xDayta;20169;DarkOliveGreen;https://picsum.photos/800/600;6;30.91;100;true;1732971350
+105;Abt Associates;45062;DodgerBlue;https://picsum.photos/800/600;7;25.69;100;true;1733012521
+106;Social Health Insights;53737;DeepSkyBlue;https://picsum.photos/800/600;4;23.17;100;true;1732990804
+107;Cappex;90464;YellowGreen;https://picsum.photos/800/600;6;37.94;100;true;1733096999
+108;Charles Schwab Corp.;92502;MistyRose;https://picsum.photos/800/600;6;74.59;100;true;1733108318
+109;GuideStar;97683;LightGoldenRodYellow;https://picsum.photos/800/600;4;76.38;100;true;1733057520
+110;Honest Buildings;23549;MistyRose;https://picsum.photos/800/600;4;28.10;100;true;1733058096
+111;Zonability;21034;Maroon;https://picsum.photos/800/600;7;68.20;100;true;1733128326
+112;Farmers;59823;CadetBlue;https://picsum.photos/800/600;4;31.74;100;true;1733139446
+113;Castle Biosciences;27884;AntiqueWhite;https://picsum.photos/800/600;5;72.54;100;true;1732986105
+114;Simple Energy;23715;FloralWhite;https://picsum.photos/800/600;4;27.96;100;true;1733106498
+115;Inovalon;85529;PowderBlue;https://picsum.photos/800/600;6;63.62;100;true;1733139284
+116;OpenGov;80482;LightGoldenRodYellow;https://picsum.photos/800/600;7;33.57;100;true;1733090975
+117;College Abacus, an ECMC initiative;94303;SeaShell;https://picsum.photos/800/600;7;24.62;100;true;1732972617
+118;Wheaton World Wide Moving;29081;OliveDrab;https://picsum.photos/800/600;7;61.23;100;true;1733079638
+119;Marlin & Associates;10559;Azure;https://picsum.photos/800/600;7;24.84;100;true;1733114419
+120;Numedii;20012;Black;https://picsum.photos/800/600;4;51.83;100;true;1733079741
+121;indoo.rs;21796;DarkKhaki;https://picsum.photos/800/600;4;21.70;100;true;1732987465
+122;PatientsLikeMe;14660;LavenderBlush;https://picsum.photos/800/600;4;36.81;100;true;1733045233
+123;The Schork Report;54758;DarkSlateBlue;https://picsum.photos/800/600;8;70.53;100;true;1733046339
+124;Enervee Corporation;42427;WhiteSmoke;https://picsum.photos/800/600;6;44.60;100;true;1732995147
+125;Citigroup;41304;Orange;https://picsum.photos/800/600;7;71.72;100;true;1733110482
+126;StreetCred Software, Inc;7768;Aqua;https://picsum.photos/800/600;6;36.15;100;true;1732993618
+127;Yelp;58195;DarkGoldenRod;https://picsum.photos/800/600;7;37.65;100;true;1733001735
+128;CoreLogic;30745;DarkRed;https://picsum.photos/800/600;4;58.86;100;true;1732986265
+129;Captricity;26456;Sienna;https://picsum.photos/800/600;5;37.08;100;true;1733111974
+130;Impact Forecasting (Aon);71602;Gold;https://picsum.photos/800/600;7;69.46;100;true;1733078105
+131;Esri;76136;SkyBlue;https://picsum.photos/800/600;4;32.46;100;true;1733093504
+132;Alarm.com;54845;Red;https://picsum.photos/800/600;7;48.69;100;true;1732977137
+133;Energy Points, Inc.;89798;DarkGoldenRod;https://picsum.photos/800/600;5;62.48;100;true;1733128741
+134;Exversion;83791;Thistle;https://picsum.photos/800/600;8;31.84;100;true;1733036854
+135;AutoGrid Systems;78050;Green;https://picsum.photos/800/600;4;25.74;100;true;1733047263
+136;Avvo;45016;Linen;https://picsum.photos/800/600;6;76.95;100;true;1732992064
+137;LOVELAND Technologies;98886;NavajoWhite;https://picsum.photos/800/600;6;41.46;100;true;1733116378
+138;Evidera;95867;Green;https://picsum.photos/800/600;8;24.04;100;true;1733045929
+139;LOGIXDATA, LLC;9405;MidnightBlue;https://picsum.photos/800/600;6;36.34;100;true;1732991680
+140;Inovalon;32490;SeaShell;https://picsum.photos/800/600;5;64.24;100;true;1733031240
+141;Synthicity;32285;Purple;https://picsum.photos/800/600;8;34.83;100;true;1733037468
+142;Lucid;9348;WhiteSmoke;https://picsum.photos/800/600;6;45.60;100;true;1733062278
+143;LOVELAND Technologies;92793;RosyBrown;https://picsum.photos/800/600;7;36.17;100;true;1733074681
+144;InCadence;49825;ForestGreen;https://picsum.photos/800/600;6;42.35;100;true;1733060312
+145;Ayasdi;30971;NavajoWhite;https://picsum.photos/800/600;4;28.61;100;true;1733019216
+146;Captricity;14859;PeachPuff;https://picsum.photos/800/600;8;25.34;100;true;1733068551
+147;Outline;54548;CadetBlue;https://picsum.photos/800/600;4;78.39;100;true;1733070330
+148;MuckRock.com;96034;DarkTurquoise;https://picsum.photos/800/600;6;31.89;100;true;1733141535
+149;USSearch;31903;DarkSalmon;https://picsum.photos/800/600;4;61.34;100;true;1733060282
+150;Lilly Open Innovation Drug Discovery;95439;DodgerBlue;https://picsum.photos/800/600;7;32.36;100;true;1733113224
