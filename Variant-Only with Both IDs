@@ -1,0 +1,26 @@
+product_id,variant_id,name,price,size,color
+P123,V001,Basic T-Shirt,19.99,Small,Black
+P123,V002,Basic T-Shirt,19.99,Medium,Black
+P123,V003,Basic T-Shirt,19.99,Large,Black
+P123,V004,Basic T-Shirt,19.99,XL,Black
+P123,V005,Basic T-Shirt,19.99,XXL,Black
+P124,V006,Classic Jeans,49.99,Small,Blue
+P124,V007,Classic Jeans,49.99,Medium,Blue
+P124,V008,Classic Jeans,49.99,Large,Blue
+P124,V009,Classic Jeans,49.99,XL,Blue
+P124,V010,Classic Jeans,49.99,XXL,Blue
+P125,V011,Stylish Jacket,99.99,Small,Black
+P125,V012,Stylish Jacket,99.99,Medium,Black
+P125,V013,Stylish Jacket,99.99,Large,Black
+P125,V014,Stylish Jacket,99.99,XL,Black
+P125,V015,Stylish Jacket,99.99,XXL,Black
+P126,V016,Comfortable Shoes,79.99,Small,White
+P126,V017,Comfortable Shoes,79.99,Medium,White
+P126,V018,Comfortable Shoes,79.99,Large,White
+P126,V019,Comfortable Shoes,79.99,XL,White
+P126,V020,Comfortable Shoes,79.99,XXL,White
+P127,V021,Leather Belt,29.99,Small,Brown
+P127,V022,Leather Belt,29.99,Medium,Brown
+P127,V023,Leather Belt,29.99,Large,Brown
+P127,V024,Leather Belt,29.99,XL,Brown
+P127,V025,Leather Belt,29.99,XXL,Brown
