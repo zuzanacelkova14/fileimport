@@ -1,6 +1,6 @@
 item_id;supplier;color;size
-1;alza;blue,red,purple;10,100
-2;alza;blue,yellow,red;1,5,10,100
+1;alza;b["blue", "yellow", "purple"];["1", "2"]
+2;alza;["blue", "yellow"];["1", "20"]
 3;alza;blue;100
 4;alza;blue;100
 5;alza;blue;100
