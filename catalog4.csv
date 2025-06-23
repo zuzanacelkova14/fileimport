@@ -1,1 +1,11 @@
 item_id;supplier;category_id;color;size;price;stock_level;test
+1;Supplier A;;Red;10;1;
+2;Supplier B;;Blue;20;2;
+3;Supplier C;;Green;30;3;
+4;Supplier D;;Yellow;40;4;
+5;Supplier E;;Black;50;5;
+6;Supplier A;1;White;10;6;60
+7;Supplier B;2;Red;20;7;70
+8;Supplier C;3;Blue;30;8;80
+9;Supplier D;4;Green;40;9;90
+10;Supplier E;5;Yellow;50;10;100
