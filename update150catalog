@@ -1,0 +1,26 @@
+item_id;supplier;category_id;color;image;size;price;stock_level;active;date_added
+1;Personalis;77406;Red;https://picsum.photos/800/600;3;61.95;100;true;1733119375
+2;ClearHealthCosts;92725;Red;https://picsum.photos/800/600;3;53.58;100;true;1732978769
+3;Enervee Corporation;46756;Red;https://picsum.photos/800/600;3;27.07;100;true;1732983402
+4;realtor.com;44056;Red;https://picsum.photos/800/600;3;32.95;100;true;1733113468
+5;Cambridge Information Group;92314;Red;https://picsum.photos/800/600;3;41.55;100;true;1733140736
+6;Knowledge Agency;50486;Red;https://picsum.photos/800/600;3;22.72;100;true;1732994892
+7;Healthline;55191;Red;https://picsum.photos/800/600;3;62.55;100;true;1733077649
+8;BuildZoom;3605;Red;https://picsum.photos/800/600;3;38.89;100;true;1733048317
+9;Graematter, Inc.;24985;Red;https://picsum.photos/800/600;3;38.98;100;true;1732989527
+10;POPVOX;21410;Red;https://picsum.photos/800/600;3;26.78;100;true;1733108120
+11;Iodine;21268;Red;https://picsum.photos/800/600;3;39.85;100;true;1733048983
+12;Citigroup;5717;Red;https://picsum.photos/800/600;3;44.84;100;true;1732997297
+13;AreaVibes Inc.;79630;Red;https://picsum.photos/800/600;3;46.85;100;true;1733087518
+14;TuvaLabs;52014;Red;https://picsum.photos/800/600;3;28.73;100;true;1733029788
+15;Climate Corporation;55780;Red;https://picsum.photos/800/600;3;41.66;100;true;1732970984
+16;Healthgrades;95986;Red;https://picsum.photos/800/600;3;49.82;100;true;1733054609
+17;Barchart;37776;Red;https://picsum.photos/800/600;3;51.50;100;true;1733109047
+18;Porch;77132;Red;https://picsum.photos/800/600;3;31.92;100;true;1732972983
+19;Marlin Alter and Associates;904;Red;https://picsum.photos/800/600;3;60.94;100;true;1733078277
+20;Cambridge Information Group;54206;Red;https://picsum.photos/800/600;3;72.80;100;true;1732992791
+21;OnStar;4110;LightSteelBlue;https://picsum.photos/800/600;3;33.29;100;true;1733003312
+22;WebFilings;23185;MediumVioletRed;https://picsum.photos/800/600;3;60.39;100;true;1733046594
+23;Quandl;55194;SlateGray;https://picsum.photos/800/600;3;31.94;100;true;1733060460
+24;Ernst & Young LLP;8185;MediumSpringGreen;https://picsum.photos/800/600;3;67.47;100;true;1733067413
+25;Equal Pay for Women;58590;Olive;https://picsum.photos/800/600;3;53.85;100;true;1733050512
