@@ -7,7 +7,7 @@ item_id;supplier;category_id;color;image;size;price;stock_level;active;date_adde
 6;Knowledge Agency;50486;Turquoise;https://picsum.photos/800/600;7;22.72;2;true;1732994892
 7;Healthline;55191;PowderBlue;https://picsum.photos/800/600;4;62.55;100;true;1733077649
 8;BuildZoom;3605;LawnGreen;https://picsum.photos/800/600;7;38.89;100;true;1733048317
-9;Graematter, Inc.;24985;Olive;https://picsum.photos/800/600;5;38.98;100;true;1732989527
+9;Graematter Inc.;24985;Olive;https://picsum.photos/800/600;5;38.98;100;true;1732989527
 10;POPVOX;21410;Brown;https://picsum.photos/800/600;8;26.78;100;true;1733108120
 11;Iodine;21268;DarkOrchid;https://picsum.photos/800/600;7;39.85;100;true;1733048983
 12;Citigroup;5717;PaleTurquoise;https://picsum.photos/800/600;5;44.84;100;true;1732997297
