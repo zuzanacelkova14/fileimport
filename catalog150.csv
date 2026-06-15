@@ -1,7 +1,7 @@
 item_id;supplier;category_id;color;image;size;price;stock_level;active;date_added
-1;Personalis;77406;BlueViolet;https://picsum.photos/800/600;5;61.95;100;true;1733119375
-2;ClearHealthCosts;92725;MediumAquaMarine;https://picsum.photos/800/600;6;53.58;0;true;1732978769
-3;Enervee Corporation;46756;Yellow;https://picsum.photos/800/600;7;27.07;0;true;1732983402
+1;Personalis;77406;BlueViolet;https://picsum.photos/800/600;5;61.95;5;true;1733119375
+2;ClearHealthCosts;92725;MediumAquaMarine;https://picsum.photos/800/600;6;53.58;5;true;1732978769
+3;Enervee Corporation;46756;Yellow;https://picsum.photos/800/600;7;27.07;5;true;1732983402
 4;realtor.com;44056;DarkOliveGreen;https://picsum.photos/800/600;8;32.95;100;true;1733113468
 5;Cambridge Information Group;92314;ForestGreen;https://picsum.photos/800/600;6;41.55;100;true;1733140736
 6;Knowledge Agency;50486;Turquoise;https://picsum.photos/800/600;7;22.72;100;true;1732994892
@@ -149,3 +149,8 @@ item_id;supplier;category_id;color;image;size;price;stock_level;active;date_adde
 148;MuckRock.com;96034;DarkTurquoise;https://picsum.photos/800/600;6;31.89;100;true;1733141535
 149;USSearch;31903;DarkSalmon;https://picsum.photos/800/600;4;61.34;100;true;1733060282
 150;Lilly Open Innovation Drug Discovery;95439;DodgerBlue;https://picsum.photos/800/600;7;32.36;100;true;1733113224
+151;Personalis;77406;BlueViolet;https://picsum.photos/800/600;5;61.95;100;true;1781520370
+152;Personalis;77406;OldLace;https://picsum.photos/800/600;6;64.50;85;true;1781520370
+153;Personalis;77406;SeaGreen;https://picsum.photos/800/600;7;59.90;120;true;1781520370
+154;Personalis;77406;GoldenRod;https://picsum.photos/800/600;8;67.25;70;true;1781520370
+155;Personalis;77406;SlateBlue;https://picsum.photos/800/600;9;62.80;95;true;1781520370
