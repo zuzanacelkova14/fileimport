@@ -46,7 +46,7 @@ item_id;supplier;category_id;color;image;size;price;stock_level;active;date_adde
 45;Import.io;26256;Snow;https://picsum.photos/800/600;7;58.96;100;true;1733120236
 46;American Red Ball Movers;77826;SlateGray;https://picsum.photos/800/600;7;45.13;100;true;1733025059
 47;Accela;44700;LightPink;https://picsum.photos/800/600;7;62.67;100;true;1733132733
-48;KidAdmit, Inc.;11653;Aquamarine;https://picsum.photos/800/600;8;34.88;100;true;1733035258
+48;KidAdmit Inc.;11653;Aquamarine;https://picsum.photos/800/600;8;34.88;100;true;1733035258
 49;LoseIt.com;97726;DeepPink;https://picsum.photos/800/600;5;26.23;100;true;1733108988
 50;ASC Partners;15183;MediumSlateBlue;https://picsum.photos/800/600;7;67.07;100;true;1733079987
 51;Urban Mapping, Inc;94279;Wheat;https://picsum.photos/800/600;8;73.72;100;true;1732981134
