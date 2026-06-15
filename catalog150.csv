@@ -32,7 +32,7 @@ item_id;supplier;category_id;color;image;size;price;stock_level;active;date_adde
 31;Barchart;53511;SaddleBrown;https://picsum.photos/800/600;4;78.19;100;true;1733118095
 32;Recargo;68081;BlueViolet;https://picsum.photos/800/600;7;71.47;100;true;1733117481
 33;Zoner;66326;LimeGreen;https://picsum.photos/800/600;6;71.11;100;true;1733077712
-34;StreetCred Software, Inc;88296;LemonChiffon;https://picsum.photos/800/600;5;43.74;100;true;1733059553
+34;StreetCred Software Inc;88296;LemonChiffon;https://picsum.photos/800/600;5;43.74;100;true;1733059553
 35;Analytica;26812;Wheat;https://picsum.photos/800/600;6;27.26;100;true;1732995258
 36;BetterLesson;79514;MediumSpringGreen;https://picsum.photos/800/600;6;47.69;100;true;1733109259
 37;Relationship Science;47979;Wheat;https://picsum.photos/800/600;6;52.55;100;true;1732999178
