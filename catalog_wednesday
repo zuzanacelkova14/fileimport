@@ -1,6 +1,6 @@
 item_id;supplier;category_id;color;image;size;price;stock_level;active;date_added
-1;Personalis;77406;BlueViolet;https://picsum.photos/800/600;5;61.95;3;true;1781707224
-2;ClearHealthCosts;92725;MediumAquaMarine;https://picsum.photos/800/600;6;53.58;3;true;1781707224
+1;Personalis;77406;BlueViolet;https://picsum.photos/800/600;5;41.95;3;true;1781707224
+2;ClearHealthCosts;92725;MediumAquaMarine;https://picsum.photos/800/600;6;52.58;3;true;1781707224
 3;Enervee Corporation;46756;Yellow;https://picsum.photos/800/600;7;27.07;5;true;1781707224
 4;realtor.com;44056;DarkOliveGreen;https://picsum.photos/800/600;8;32.95;4;true;1781707224
 5;Cambridge Information Group;92314;ForestGreen;https://picsum.photos/800/600;6;41.55;2;true;1781707224
