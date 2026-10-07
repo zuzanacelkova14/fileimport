@@ -1,0 +1,13 @@
+hotel_id,hotel_name,city,country,star_rating,price_per_night,rooms_available,guest_rating,pet_friendly,available_from
+H001,Riverside Danube Hotel,Bratislava,Slovakia,4,189.00,14,8.7,true,2026-10-01
+H002,Old Town Boutique Rooms,Prague,Czechia,3,95.50,22,8.2,false,2026-10-01
+H003,Ringstrasse Grand Hotel,Vienna,Austria,5,420.00,6,9.3,false,2026-10-01
+H004,Tatra Pine Lodge,Strbske Pleso,Slovakia,4,165.00,0,9.0,true,2026-12-15
+H005,Chain Bridge Suites,Budapest,Hungary,4,140.00,18,8.5,true,2026-10-01
+H006,Alfama Sunset Guesthouse,Lisbon,Portugal,3,110.00,9,8.9,false,2026-10-01
+H007,Garden Courtyard Hotel,Barcelona,Spain,4,210.00,12,8.4,false,2026-10-01
+H008,Cliffside Sea Resort,Positano,Italy,5,560.00,4,9.5,false,2027-04-01
+H009,Harbour Lights Inn,Copenhagen,Denmark,3,175.00,16,8.1,true,2026-10-01
+H010,Matterhorn View Spa Retreat,Zermatt,Switzerland,5,480.00,0,9.4,true,2026-12-01
+H011,Canal View Apartments,Amsterdam,Netherlands,3,150.00,20,7.9,true,2026-10-01
+H012,Acropolis View Hotel,Athens,Greece,4,130.00,11,8.6,false,2026-10-01
